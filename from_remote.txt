@@ -1,0 +1,21 @@
+  cd Scripts/
+  394  ls
+  395  vim GITHISTORY.txt
+  396  git branch
+  397  git add GITHISTORY.txt
+  398  git commit -m "added gitHistory"
+  399  git switch master
+  400  git branch
+  401  git merge staging
+  402  git branch
+  403  git push origin master
+  404  git remote -v
+  405  git remote add origin https://github.com/vipulraghupatruni/demo-shell-scripts.git
+  406  git push origin master
+  407  git remote set-url origin https://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@github.com/vipulraghupatruni/demo-shell-scripts.git
+  408  git push origin master
+  409  git pull origin master
+  410  git push origin master
+  411  git pull origin master --no-rebase
+  412  git push origin master
+  413  history
