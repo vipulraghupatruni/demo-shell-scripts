@@ -1,1 +1,121 @@
 This is Shell Scripting file from Github remote repository using AWS 
+
+History
+
+
+
+
+
+git init
+  235  ls
+  236  la -a
+  237  cd .git/
+  238  ls
+  239  cd ..
+  240  ls
+  241  git add 3_idiots.sh
+  242  git status
+  243  git commit -m "added 3_idiots.Scripts"
+  244  ls
+  245  git status
+  246  git restore 3_idiots.sh
+  247  ls
+  248  git add create_user.sh
+  249  git add.
+  250  git status
+  251  git config
+  252  git config -- global user.name vipulraghupatruni
+  253  git config --global user.name vipulraghupatruni
+  254  git config --global user.email vipulraghupatruni5136@gmail.com
+  255  touch README.md
+  256  git add README.md
+  257  git status
+  258  git commit -m "added readme"
+  259  git log
+  260  history
+  261  git status
+  262  cd ..
+  263  git status
+  264  cd Scripts/
+  265  git status
+  266  git branch
+  267  git checkout -b dev
+  268  git status
+  269  ls
+  270  vm from_dev.txt
+  271  vim from_dev.txt
+  272  ls
+  273  git status
+  274  git add from_dev.txt
+  275  git commit -m "added dev file"
+  276  ls
+  277  git status
+  278  git branch
+  279  git checkout master
+  280  ls
+  281  git status
+  282  git log
+  283  git log --oneline
+  284  git checkout dev
+  285  git status
+  286  git log --online
+  287  git log --oneline
+  288  git branch
+  289  git switch master
+  290  git branch
+  291  git switch dev
+  292  git checkout master
+  293  git checkout -b staging
+  294  ls
+  295  git status
+  296  git checkout dev
+  297  git log --oneline
+  298  git checkout master
+  299  git log --oneline
+  300  git --version
+  301  history
+  302  git init
+  303  git status
+  304  cd Scripts/
+  305  git status
+  306  git log
+  307  git merge dev
+  308  ls
+  309  git status
+  310  git remote -v
+  311  git log
+  312  git --version
+  313  cd scripts/
+  314  cd
+  315  ls
+  316  cd Scripts/
+  317  ls
+  318  git init
+  319  gitinit
+  320  git init
+  321  git status
+  322  git remote -v
+  323  git remote add origin https://github.com/vipulraghupatruni/demo-shell-scripts.git
+  324  git remote -v
+  325  git status
+  326  ls
+  327  git push origin master
+  328  git remote -v
+  329  git remote set-url origin https://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@github.com/vipulraghupatruni/demo-shell-scripts.git
+  330  git push origin master
+  331  git pull origin master
+  332  ls
+  333  git add salaardevratha.txt
+  334  git commit -m "salaardevratha"
+  335  git log
+  336  git branch
+  337  git checkout -b dev
+  338  ls
+  339  git checkout master
+  340  ls
+  341  git checkout -b staging
+  342  git merge dev
+  343  ls
+  344  git push origin master
+  345  history
+
