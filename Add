@@ -1,0 +1,13 @@
+local folder/files to remote
+
+
+396  git init
+  397  git status
+  398  git status
+  399  git add -A
+  400  git status
+  401  git branch
+  402  git commit -m "banking"
+  403  git remote add origin https://github.com/vipulraghupatruni/BankingSystem.git
+  404  git push origin master
+  405  history
